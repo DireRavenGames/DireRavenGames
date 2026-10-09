@@ -2,22 +2,12 @@
 <h3 align="center">Game Developer & Pixel Artist from California</h3>
 
 <p align="center">
-  I create games from building systems, designing worlds, and making pixel art that brings them to life.
-</p>
-
-<p align="center">
     🎮 Projects: <a href="https://direravendomain.itch.io" target="_blank"><strong>direravendomain.itch.io</strong>
   </a>
 </p>
 
 <p align="center">
   📫 Contact: <a href="mailto:direraven604@gmail.com"><strong>direraven604@gmail.com</strong></a>
-</p>
-
-<h3 align="center">🎨 What I Do</h3>
-
-<p align="center">
-  🕹️ Game Development • 🎨 Pixel Art • 🧠 Gameplay Systems • 🌍 World Building
 </p>
 
 ---
